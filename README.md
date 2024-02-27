@@ -7,5 +7,5 @@ https://pixabay.com/pl/service/license/
 
 Scripts and game graphics on licence included in project.
 
-See game here:
-https://play.google.com/store/apps/details?id=com.YellowSink.Freestyle3
+Due to change in Google Play policy I decided to publish only android release on GitHub
+https://github.com/nibek1000/Freestyle-3/releases/tag/1.0
